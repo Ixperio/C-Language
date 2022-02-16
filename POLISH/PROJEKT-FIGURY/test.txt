@@ -1,0 +1,13 @@
+muzyka XP234 100
+film YS132 21
+ksiazka DQ983 65
+muzyka XP234 30
+film YW276 3
+muzyka XP235 120
+film YS134 26
+ksiazka DQ982 650
+muzyka XP2341 305
+film YW278 34
+ksiazka DQ982 60
+muzyka XP2341 105
+film YW278 340
