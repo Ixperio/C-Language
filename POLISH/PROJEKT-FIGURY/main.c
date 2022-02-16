@@ -1,4 +1,4 @@
-//Program zaprojektowal Ixperio (Artur) 
+//Program zaprojektowal Ixperio (Artur) https://github.com/Ixperio
 
 #include <stdio.h>
 #include <stdlib.h>
